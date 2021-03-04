@@ -1,0 +1,10 @@
+# Bluetooth connection
+$ sudo bluetoothctl
+    # agent on
+
+
+
+
+
+# References:
+- Remote development VSC and C++: https://code.visualstudio.com/docs/remote/ssh
